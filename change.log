@@ -1,1 +1,23 @@
+📌 UPDATE 1.0.3 – 2025-12-04
 
+✅ SAFEZONE
+• Bandit Camp, Fish village, Ranch  & Outpost safezone activated.
+• No guns, no PvP, no NPCs, no animal.
+• Added better weapons in shops.
+
+💰 LOOT
+• All loot now spawns at 100% condition.
+• loot increased to x3.
+• Added better more loot.
+• Added better weapons in loot.
+
+🛠 FIXES
+• Puzzle doors removed.
+• ZoneManager crash fixed (location format).
+• Loot auto-pickup improved.
+
+🔄 SERVER
+• Restart set to 00:00
+• Restart set to 06:00
+• Restart set to 12:00
+• Restart set to 18:00
